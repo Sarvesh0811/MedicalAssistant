@@ -1,7 +1,7 @@
 [project]
 name = "medicalassistant"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Medical Assistant Chatbot based on RAG architecture"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
