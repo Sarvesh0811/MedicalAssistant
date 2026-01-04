@@ -1,5 +1,7 @@
 # 🩺 AI Medical Assistant — RAG-based Backend API
 
+![Medical Assistant Chatbot Interface](assets/medicalassistant.png)
+
 ## 🧠 Project Overview
 
 This project is a **Medical Domain AI Assistant Backend** built using **Retrieval-Augmented Generation (RAG)**.  
@@ -55,7 +57,7 @@ This is especially useful for **medical and factual domains**.
 - Upload one or multiple **medical PDF documents**
 - Automatic **PDF text extraction**
 - Recursive **text chunking**
-- Vector embeddings using **Google / BGE embeddings**
+- Vector embeddings using **Google embeddings**
 - Vector storage and similarity search via **Pinecone**
 - Context-aware answer generation using **Groq LLaMA3-70B**
 - Modular, scalable **FastAPI backend**
